@@ -1,0 +1,5 @@
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.csproj.AssemblyReference.cache
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.AssemblyInfo.cs
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.csproj.CoreCompileInputs.cache

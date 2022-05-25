@@ -1,0 +1,15 @@
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/bin/Debug/net6.0/Factory_Method
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/bin/Debug/net6.0/Factory_Method.deps.json
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/bin/Debug/net6.0/Factory_Method.runtimeconfig.json
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/bin/Debug/net6.0/Factory_Method.dll
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/bin/Debug/net6.0/Factory_Method.pdb
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/Factory_Method.csproj.AssemblyReference.cache
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/Factory_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/Factory_Method.AssemblyInfoInputs.cache
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/Factory_Method.AssemblyInfo.cs
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/Factory_Method.csproj.CoreCompileInputs.cache
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/Factory_Method.dll
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/refint/Factory_Method.dll
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/Factory_Method.pdb
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/Factory_Method.genruntimeconfig.cache
+/Users/marcoaureliovilelasousa/Projetos/FactoryMethod/FactoryMethod/obj/Debug/net6.0/ref/Factory_Method.dll
